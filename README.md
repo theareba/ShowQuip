@@ -3,7 +3,7 @@
 ## TV Show Tracker using AngularJS, Node.js and MongoDB
 
 ### Features
-- Authentication and login process with Password.
+- Authentication and login process with Passport(including social auth facebook etc).
 - Adding of TV shows
 - Tv show listing and filtering. 
 - Tv Shows subscription
