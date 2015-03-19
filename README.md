@@ -12,4 +12,6 @@
 ShowQuip lets you discover and follow your favorite TV shows. This creation was part of
 learning experience with MEAN stack.
 
-Credits: Sahat Yalkabov for this awesome tutorial http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/
+Chech out the app here: https://showquip.herokuapp.com
+
+Credits: Sahat Yalkabov for their awesome tutorial on this
